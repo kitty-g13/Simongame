@@ -5,25 +5,25 @@ body {
 
 #level-title {
   font-family: 'Press Start 2P', cursive;
-  font-size: 1.5rem;
-  margin:  2%;
+  font-size: 3rem;
+  margin:  5%;
   color: #FEF2BF;
 }
 
 .container {
   display: block;
-  width: 10%;
+  width: 50%;
   margin: auto;
 
 }
 
 .btn {
-  margin: 1rem;
+  margin: 25px;
   display: inline-block;
-  height: 9rem;
-  width: 9rem;
-  border: 0.7rem solid black;
-  border-radius: 15%;
+  height: 200px;
+  width: 200px;
+  border: 10px solid black;
+  border-radius: 20%;
 }
 
 .game-over {
